@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a **full stack developer** with expertise in *
 
 ## 📫 Let's Connect
 
+- Portifolio: [guilhermedev.com](https://guilhermedev.com)
 - LinkedIn: [Guilherme Martins](https://www.linkedin.com/in/guilhermemartinsteixeira)
 - Email: [guilhermemartinsteixeiras@gmail.com](mailto:guilhermemartinsteixeiras@gmail.com)
 
-Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration. Let's build something amazing together! 🚀
+Thanks for visiting my profile! Feel free to reach out. Let's build something amazing together! 🚀
