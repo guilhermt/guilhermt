@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme Martins</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermt&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermt" /> </p>
-
 - 📄 Know about my experiences [https://guilhermedev.com](https://guilhermedev.com)
 
 <h3 align="left">Connect with me:</h3>
