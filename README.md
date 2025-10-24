@@ -1,6 +1,6 @@
 # Hi there, I'm Guilherme Martins! 👋
 
-I'm a **full stack developer** with 2+ years of experience and expertise in **React**, **Node.js**, **TypeScript**, and **AWS**. I focus on creating scalable, cloud-based solutions.
+I'm a **full stack developer** with expertise in **React**, **Node.js**, **TypeScript**, and **AWS**. I focus on creating scalable, cloud-based solutions.
 
 ## 🔧 Tech Stack
 
