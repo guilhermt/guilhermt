@@ -8,7 +8,6 @@ I'm a **full stack developer** with expertise in **React**, **Node.js**, **TypeS
 
 ## 📫 Let's Connect
 
-- Portifolio: [guilhermedev.com](https://guilhermedev.com)
 - LinkedIn: [Guilherme Martins](https://www.linkedin.com/in/guilhermemartinsteixeira)
 - Email: [guilhermemt.dev@gmail.com](mailto:guilhermemt.dev@gmail.com)
 
